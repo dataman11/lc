@@ -23,6 +23,8 @@ public class Prime {
             }
         }
 
+System.out.println();
+
         return flag;
     }
 }
